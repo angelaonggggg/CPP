@@ -1,0 +1,4 @@
+name,occupation,Adr-is_condominium,Adr-street,Adr-postal,Adr-flr-lvl,Adr-unit-no
+Steve Tan,Engineer,FALSE,35 Triselikon Ave,512456,38,#38-13
+Tony Wong,Teacher,TRUE,60 Malibu Mansion,520123
+Harry Evans,Student,FALSE,8 Central Castle,608833,5,#05-08
